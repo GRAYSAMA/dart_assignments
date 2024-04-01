@@ -68,7 +68,7 @@ void handleException() {
 void main() {
   // Task 1: Function to return the sum of two numbers
   print('Task 1:');
-  print('Sum of 4 and 4 is ${sum(5, 7)}');
+  print('Sum of 4 and 4 is ${sum(4, 4)}');
 
   // Task 2: Program to print numbers from 1 to 10 using a for loop
   print('\nTask 2:');
